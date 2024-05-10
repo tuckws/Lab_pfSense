@@ -1,6 +1,6 @@
 ## Lab_pfSense
 #### Purpose
-The purpose of this lab is to develop knowledge and experience in the application of virtualization software, firewall/router software, and networking services and applications across a self-built virtualized network homelab. Tools used for this included VMware and pfSense.
+The purpose of this lab is to develop knowledge and experience in the application of virtualization software, firewall/router software, and networking services and applications across a self-built virtualized network homelab. Tools used for this included VMware and pfSense. Credit to VMware Advisor on Youtube for assistance with this project. His videos are incredibly insightful and thorough. 
 #### Lessons Learned
 - pfSense implementation and configuration in virtual environment.
 - Firewall rule configurations for different network types. 
