@@ -11,7 +11,6 @@ The purpose of this lab is to develop knowledge and experience in the applicatio
 #### Tools Used
 - pfSense.
 - VMware.
-- Active Directory.
 - Draw.io.
 #### Lab Environment Setup
 | Name            | IP              | Subnet Mask   | Description             |
